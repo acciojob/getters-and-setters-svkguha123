@@ -8,7 +8,7 @@ class Person {
     get name(){
         return this.Name;
     }
-    set age(){
+    set age(age){
         this.Age = age;
     }
     get age(){
